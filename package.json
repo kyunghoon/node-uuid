@@ -2,6 +2,7 @@
   "name": "uuid",
   "version": "3.3.2",
   "description": "RFC4122 (v1, v4, and v5) UUIDs",
+  "types": "index.d.ts",
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
